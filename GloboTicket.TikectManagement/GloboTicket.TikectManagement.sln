@@ -17,6 +17,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{03BD1267
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TikectManagement.Domain", "GloboTicket.TikectManagement.Domain\GloboTicket.TikectManagement.Domain.csproj", "{12C09DF0-09AC-4763-8250-49046DFDA4CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GloboTicket.TikectManagement.Application", "GloboTicket.TikectManagement.Application\GloboTicket.TikectManagement.Application.csproj", "{564CF89E-5366-4060-8CC5-92B206B6C1A8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{12C09DF0-09AC-4763-8250-49046DFDA4CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{12C09DF0-09AC-4763-8250-49046DFDA4CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{12C09DF0-09AC-4763-8250-49046DFDA4CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{564CF89E-5366-4060-8CC5-92B206B6C1A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{564CF89E-5366-4060-8CC5-92B206B6C1A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{564CF89E-5366-4060-8CC5-92B206B6C1A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{564CF89E-5366-4060-8CC5-92B206B6C1A8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -37,6 +43,7 @@ Global
 		{6E3C09A9-9E10-4C40-B22C-D662D6504011} = {3F86CF3D-EC06-4751-AD54-AB657B722A7C}
 		{B2C4D739-7E66-4463-9647-8F0F1702D2CC} = {3F86CF3D-EC06-4751-AD54-AB657B722A7C}
 		{12C09DF0-09AC-4763-8250-49046DFDA4CD} = {31FF1797-BB9E-44BD-AF3F-DD5FF34125B6}
+		{564CF89E-5366-4060-8CC5-92B206B6C1A8} = {31FF1797-BB9E-44BD-AF3F-DD5FF34125B6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {9F27823B-8ED2-45C1-8D78-1548814EBDEC}
