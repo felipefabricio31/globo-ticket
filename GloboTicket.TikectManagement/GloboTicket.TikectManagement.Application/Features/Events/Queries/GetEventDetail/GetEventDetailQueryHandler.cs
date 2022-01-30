@@ -1,5 +1,5 @@
 ﻿using AutoMapper;
-using GloboTicket.TikectManagement.Application.Persistence;
+using GloboTicket.TikectManagement.Application.Contracts.Persistence;
 using GloboTicket.TikectManagement.Domain.Entities;
 using MediatR;
 using System.Threading;

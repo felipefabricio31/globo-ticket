@@ -5,9 +5,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TikectManagement.Application.Persistence
+namespace GloboTicket.TikectManagement.Application.Contracts.Persistence
 {
     public interface ICategoryRepository : IAsyncRepository<Category>
     {
+        Task<List<Category>> GetCategoriesWithEvents(bool includePassedEvents);
     }
 }

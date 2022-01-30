@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TikectManagement.Application.Persistence
+namespace GloboTicket.TikectManagement.Application.Contracts.Persistence
 {
     public interface IAsyncRepository<T> where T : class
     {

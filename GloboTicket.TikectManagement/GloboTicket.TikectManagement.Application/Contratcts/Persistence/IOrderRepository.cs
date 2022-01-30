@@ -5,9 +5,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GloboTicket.TikectManagement.Application.Persistence
+namespace GloboTicket.TikectManagement.Application.Contracts.Persistence
 {
-    public interface IEventRepository : IAsyncRepository<Event>
+    public interface IOrderRepository : IAsyncRepository<Order>
     {
     }
 }

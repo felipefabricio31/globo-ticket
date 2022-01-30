@@ -3,3 +3,13 @@ C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.Tikect
 C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.AssemblyInfoInputs.cache
 C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.AssemblyInfo.cs
 C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.csproj.CoreCompileInputs.cache
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\bin\Debug\net5.0\GloboTicket.TikectManagement.Application.deps.json
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\bin\Debug\net5.0\GloboTicket.TikectManagement.Application.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\bin\Debug\net5.0\ref\GloboTicket.TikectManagement.Application.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\bin\Debug\net5.0\GloboTicket.TikectManagement.Application.pdb
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\bin\Debug\net5.0\GloboTicket.TikectManagement.Domain.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\bin\Debug\net5.0\GloboTicket.TikectManagement.Domain.pdb
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.csproj.CopyComplete
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\ref\GloboTicket.TikectManagement.Application.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.pdb
