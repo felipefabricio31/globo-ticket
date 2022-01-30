@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "12c09df0-09ac-4763-8250-49046dfda4cd": {
+      "ProjectGuid": "12c09df0-09ac-4763-8250-49046dfda4cd",
+      "DisplayName": "GloboTicket.TikectManagement.Domain",
+      "ColorIndex": 0
+    },
+    "564cf89e-5366-4060-8cc5-92b206b6c1a8": {
+      "ProjectGuid": "564cf89e-5366-4060-8cc5-92b206b6c1a8",
+      "DisplayName": "GloboTicket.TikectManagement.Application",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 2
+}
