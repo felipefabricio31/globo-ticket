@@ -1,0 +1,5 @@
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.csproj.AssemblyReference.cache
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.AssemblyInfoInputs.cache
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.AssemblyInfo.cs
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Application\obj\Debug\net5.0\GloboTicket.TikectManagement.Application.csproj.CoreCompileInputs.cache

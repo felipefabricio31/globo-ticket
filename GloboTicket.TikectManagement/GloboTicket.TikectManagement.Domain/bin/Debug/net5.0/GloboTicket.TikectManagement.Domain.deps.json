@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "GloboTicket.TikectManagement.Domain/1.0.0": {
+        "runtime": {
+          "GloboTicket.TikectManagement.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GloboTicket.TikectManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

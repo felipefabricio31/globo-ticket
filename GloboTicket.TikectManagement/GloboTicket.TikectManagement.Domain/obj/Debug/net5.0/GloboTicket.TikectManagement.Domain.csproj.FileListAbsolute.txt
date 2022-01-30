@@ -1,0 +1,12 @@
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\bin\Debug\net5.0\GloboTicket.TikectManagement.Domain.deps.json
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\bin\Debug\net5.0\GloboTicket.TikectManagement.Domain.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\bin\Debug\net5.0\ref\GloboTicket.TikectManagement.Domain.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\bin\Debug\net5.0\GloboTicket.TikectManagement.Domain.pdb
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.csproj.AssemblyReference.cache
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.AssemblyInfoInputs.cache
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.AssemblyInfo.cs
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.csproj.CoreCompileInputs.cache
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\ref\GloboTicket.TikectManagement.Domain.dll
+C:\PROJETOS\ESTUDOS\globo-ticket\GloboTicket.TikectManagement\GloboTicket.TikectManagement.Domain\obj\Debug\net5.0\GloboTicket.TikectManagement.Domain.pdb
